@@ -4,7 +4,7 @@
 
 - 🔭 Currently, I am a student studying software engineering at Ton Duc Thang University
 - 🌱 My future goal is to become a mobile developer
-- ⚡ Fun fact: I like photography, sleeping, coding, listening to music, eating and blah blah blah.
+- ⚡ Fun fact: I like photographing, sleeping, coding, listening to music, eating and blah blah blah.
 <br>
 <hr>
 
