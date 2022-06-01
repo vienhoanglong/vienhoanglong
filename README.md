@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Vien Hoang Long <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<img align="right" width="250px" src="img/coding.gif" alt="vienhoanglong" />
+
 
 ### 👨🏻‍💻 About me:
 
