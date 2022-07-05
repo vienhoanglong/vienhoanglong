@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vien Hoang Long</h1>
 
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+<img align="right" alt="Coder GIF" height=200 width=300 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 
 ### 👨🏻‍💻 About me:
 
