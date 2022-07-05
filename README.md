@@ -6,7 +6,7 @@
 ### 👨🏻‍💻 About me:
 
 - 🔭 Currently, I am a student studying software engineering at Ton Duc Thang University
-- 🌱 My future goal is to become a mobile developer
+- 🌱 My future goal is to become a full-stack web
 - ⚡ Fun fact: I like photography, sleeping, coding, listening to music, eating and blah blah blah.
 <br>
 
