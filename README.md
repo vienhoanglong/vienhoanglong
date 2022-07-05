@@ -1,17 +1,18 @@
 <h1 align="center">Hi, I'm Vien Hoang Long</h1>
 
-<img  align="right" width=200px src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
-<br>
 
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 
 ### 👨🏻‍💻 About me:
 
 - 🔭 Currently, I am a student studying software engineering at Ton Duc Thang University
 - 🌱 My future goal is to become a mobile developer
 - ⚡ Fun fact: I like photography, sleeping, coding, listening to music, eating and blah blah blah.
-
-
 <br>
+
+<div style="margin: 170px;">
+
+</div>
 <hr>
 
 ### 🛠 Languages and Tools:
