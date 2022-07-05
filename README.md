@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I like photography, sleeping, coding, listening to music, eating and blah blah blah.
 <br>
 
-<div style="margin: 170px;">
+<div style="margin: 200px;">
 
 </div>
 <hr>
