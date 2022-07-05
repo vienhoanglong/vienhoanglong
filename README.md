@@ -1,10 +1,8 @@
-
 <h1 align="center">Hi, I'm Vien Hoang Long</h1>
-
-
+<img align="right" width="200px" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
+<br>
 
 ### 👨🏻‍💻 About me:
-
 
 - 🔭 Currently, I am a student studying software engineering at Ton Duc Thang University
 - 🌱 My future goal is to become a mobile developer
@@ -26,6 +24,8 @@
 #### Frameworks, Platforms and Libraries
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
