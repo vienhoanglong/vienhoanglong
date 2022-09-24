@@ -3,8 +3,8 @@
 
 <img align="right" alt="Coder GIF" height=200 width=300 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 
-## 👨🏻‍💻 About me:
-As a software engineer, I love learning new technologies and programming great things.
+## 👨🏻‍💻 About me
+<span>As a software engineer, I love learning new technologies and programming great things.</span>
 - 🔭 Currently, I am a student studying software engineering at Ton Duc Thang University
 - 🌱 My future goal is to become a full-stack web
 - ⚡ Fun fact: I like photography, sleeping, coding, listening to music, eating and blah blah blah.
