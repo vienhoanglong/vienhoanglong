@@ -1,80 +1,88 @@
-<h1 align="center">Hi, I'm Vien Hoang Long</h1>
-
+<h1 align="center">Hi there , I'm Hoang Long (Vien) 👋</h1>
 
 <img align="right" alt="Coder GIF" height=200 width=300 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 
-### 👨🏻‍💻 About me:
-
+## 👨🏻‍💻 About me:
+As a software engineer, I love learning new technologies and programming great things.
 - 🔭 Currently, I am a student studying software engineering at Ton Duc Thang University
 - 🌱 My future goal is to become a full-stack web
 - ⚡ Fun fact: I like photography, sleeping, coding, listening to music, eating and blah blah blah.
 <br>
 
+<hr>
+
 <div style="margin: 200px;">
 
 </div>
+
+### Connect with me
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-21a3e2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vienhoanglong)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d93025?style=flat&logo=gmail&logoColor=white)](mailto:vienhoanglong789@gmail.com)
 <hr>
 
-### 🛠 Languages and Tools:
+## Tech stacks and tools:
 
-### 📋 Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-### 📚 Frameworks, Platforms and Libraries
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### 📋 Languages
+![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+#### 📚 Frameworks, Platforms and Libraries
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101)
+![AdonisJS](https://img.shields.io/badge/AdonisJs-%23220052.svg?style=plastic&logo=adonisjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/Jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)
 </br>
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
+![TailwindCSS](https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)
+![Pug](https://img.shields.io/badge/Pug-FFF?style=plastic&logo=pug&logoColor=A86454)
 
-### 💾 Databases
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-### 🎨 Design
-![Figma](https://img.shields.io/badge/figma-203759?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-### 🥅 Others
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-### ☁️ Hosting/SaaS
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+#### 💾 Databases
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
+
+#### 🎨 Design
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6)
+![Figma](https://img.shields.io/badge/Figma-203759?style=plastic&logo=figma&logoColor=white)
+
+#### 🥅 Others
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+
+#### ☁️ Hosting/SaaS
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=plastic&logo=firebase)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 <hr/>
 
-### ⚙️ &nbsp;GitHub Analytics
+<details>
+  <br />  
+  <summary><b> ⚡ GitHub stats</b></summary>
+  <p>
+    <a href="https://github.com/vienhoanglong">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vienhoanglong&title_color=44AEA9&icon_color=44AEA9&text_color=fffefe&bg_color=0F172A&&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vienhoanglong&layout=compact&langs_count=15&&title_color=44AEA9&icon_color=44AEA9&text_color=fffefe&bg_color=0F172A"/>
+    </a>
+  </p>
+</details>
+  <hr />
+  <br>
+  <div align="center">
+    <img  src="img/grid-snake.svg"
+      alt="vienhoanglong" />
+  </div>
 
-<p>
-<a href="https://github.com/vienhoanglong">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vienhoanglong&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vienhoanglong&layout=compact&langs_count=15&theme=radical"/>
-</a>
-</p>
-<hr />
-<br>
-<img src="https://komarev.com/ghpvc/?username=vienhoanglong&color=red">
-<div align="center">
-  <img  src="img/grid-snake.svg"
-    alt="vienhoanglong" />
-</div>
+  <div align="center">
 
-<div align="center">
-
-### Copyright © [vienhoanglong](https://github.com/vienhoanglong)
+### <img src="https://komarev.com/ghpvc/?username=vienhoanglong&color=44AEA9">
 
 <div>
+
 
