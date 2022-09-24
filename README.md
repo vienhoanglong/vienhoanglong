@@ -15,7 +15,7 @@ As a software engineer, I love learning new technologies and programming great t
 
 </div>
 
-### Connect with me
+## Connect with me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-21a3e2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vienhoanglong)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d93025?style=flat&logo=gmail&logoColor=white)](mailto:vienhoanglong789@gmail.com)
 
