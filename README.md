@@ -1,4 +1,5 @@
-<h1 align="center">Hi there , I'm Hoang Long (Vien) 👋</h1>
+<h2 align="center">Hi there , I'm Hoang Long (Vien) 👋</h2>
+
 
 <img align="right" alt="Coder GIF" height=200 width=300 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 
