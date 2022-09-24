@@ -9,7 +9,7 @@ As a software engineer, I love learning new technologies and programming great t
 - ⚡ Fun fact: I like photography, sleeping, coding, listening to music, eating and blah blah blah.
 <br>
 
-<hr>
+
 
 <div style="margin: 200px;">
 
@@ -18,10 +18,8 @@ As a software engineer, I love learning new technologies and programming great t
 ### Connect with me
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-21a3e2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vienhoanglong)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d93025?style=flat&logo=gmail&logoColor=white)](mailto:vienhoanglong789@gmail.com)
-<hr>
 
 ## Tech stacks and tools:
-
 
 #### 📋 Languages
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
