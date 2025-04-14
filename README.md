@@ -5,7 +5,7 @@
 <img align="right" alt="Coder GIF" height="175px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Z6Yjh4ODNnemMzY3VmMW9vbmd4cDRoOTl4NGx5bnNraTM2MTFobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" />
 
 - 👨‍💻 I'm a Software Engineer specializing in Backend Development with TypeScript, JavaScript, React, NestJS, etc.
-- 🌱 My future goal is to become a full-stack
+- 🎯 My future goal is to become an AI application developer
 - ⚡ Fun fact: I like photography, sleeping, coding, listening to music, eating and blah blah blah.
 - 🖥️ See my portfolio at [vienhoanglong.online](https://vienhoanglong.online)
 - ✉️ You can contact me at <br> [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-21a3e2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vienhoanglong)
